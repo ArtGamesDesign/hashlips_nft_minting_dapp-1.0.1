@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hashlips_nft_minting_dapp-1.0.1/static/css/main.fb0ab8db.chunk.css",
+    "main.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.11904012.chunk.js",
+    "main.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.11904012.chunk.js.map",
+    "runtime-main.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/runtime-main.fe3764bf.js",
+    "runtime-main.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/runtime-main.fe3764bf.js.map",
+    "static/js/2.4ca206d8.chunk.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/2.4ca206d8.chunk.js",
+    "static/js/2.4ca206d8.chunk.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/2.4ca206d8.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/hashlips_nft_minting_dapp-1.0.1/index.html",
+    "static/css/main.fb0ab8db.chunk.css.map": "/hashlips_nft_minting_dapp-1.0.1/static/css/main.fb0ab8db.chunk.css.map",
+    "static/js/2.4ca206d8.chunk.js.LICENSE.txt": "/hashlips_nft_minting_dapp-1.0.1/static/js/2.4ca206d8.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/hashlips_nft_minting_dapp-1.0.1/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3764bf.js",
+    "static/js/2.4ca206d8.chunk.js",
+    "static/css/main.fb0ab8db.chunk.css",
+    "static/js/main.11904012.chunk.js"
+  ]
+}
