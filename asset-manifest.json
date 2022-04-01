@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hashlips_nft_minting_dapp-1.0.1/static/css/main.fb0ab8db.chunk.css",
-    "main.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.be758d01.chunk.js",
-    "main.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.be758d01.chunk.js.map",
+    "main.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.de4e95ea.chunk.js",
+    "main.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/main.de4e95ea.chunk.js.map",
     "runtime-main.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/runtime-main.fe3764bf.js",
     "runtime-main.js.map": "/hashlips_nft_minting_dapp-1.0.1/static/js/runtime-main.fe3764bf.js.map",
     "static/js/2.4ca206d8.chunk.js": "/hashlips_nft_minting_dapp-1.0.1/static/js/2.4ca206d8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fe3764bf.js",
     "static/js/2.4ca206d8.chunk.js",
     "static/css/main.fb0ab8db.chunk.css",
-    "static/js/main.be758d01.chunk.js"
+    "static/js/main.de4e95ea.chunk.js"
   ]
 }
