@@ -201,11 +201,11 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/hashlips_nft_minting_dapp-1.0.1/blob/gh-pages/config/images/logo.png"} />
+        <StyledLogo alt={"logo"} src={"https://github.com/ArtGamesDesign/hashlips_nft_minting_dapp-1.0.1/blob/gh-pages/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"/hashlips_nft_minting_dapp-1.0.1/blob/gh-pages/config/images/example.gif"} />
+            <StyledImg alt={"example"} src={"https://github.com/ArtGamesDesign/hashlips_nft_minting_dapp-1.0.1/blob/gh-pages/config/images/example.gif"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
