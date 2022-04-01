@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { connect } from "hashlips_nft_minting_dapp-1.0.1/redux/blockchain/blockchainActions";
-import { fetchData } from "hashlips_nft_minting_dapp-1.0.1/redux/data/dataActions";
-import * as s from "hashlips_nft_minting_dapp-1.0.1/styles/globalStyles";
+import { connect } from "./redux/blockchain/blockchainActions";
+import { fetchData } from "./redux/data/dataActions";
+import * as s from "./styles/globalStyles";
 import styled from "styled-components";
 
 const truncate = (input, len) =>
@@ -294,7 +294,7 @@ function App() {
                     >
                       CONNECT
                     </StyledButton>
-                    {blockchain.errorMsg !== "error" ? (
+                    {blockchain.errorMsg !== "" ? (
                       <>
                         <s.SpacerSmall />
                         <s.TextDescription
